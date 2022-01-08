@@ -1,0 +1,101 @@
+{    
+     "Version": "2.3.0",
+     "namalu" : "ZEZE",
+     "nomerlu": "6285648870603",
+     "namabot": "_ZE M BOTZ^^",
+     "nomerbot": "6285859108597",
+     "gender" : "GANDA",
+     "copyright" : "_ZE M BOTZ^^",
+     "imgbbApikey": "84e2110ad43b6335d5925589e4685e8a",
+     "Jika_imgbb_error_buat_apikey_sendiri_di": "https://api.imgbb.com",
+     "namaDocument": "_ZE M BOTZ^^",
+     "joinGcExtream": false,
+
+     "Anticall": true,
+     "publik": true,
+     "forwarding": false,
+     "Loading": false,
+     "antitroli" : false,
+     
+     "autovn" : false,
+     "autosticker" : false,
+     "autorespon" : false,
+     "autotyping" : false,
+     "autoread" : true,
+     "autoblockcmd" : false, 
+     "autobio" : true,
+     "autoLevel" : true,
+
+     "totalForward" : 1000000,
+     "explain": false,
+     "jumlahTroli": 2022,
+     
+     "SetFunction": {
+     "Daftar_Font": "block, slick, tiny, grid, pallet, shade, chrome, simple, simpleBlock, 3d, simple3d, huge, console",        
+     "font": "simple",                      
+     "self": "_ZE M",
+     "bot": "BOTZ",
+     "ext": "REVOLUTION"
+     },
+     
+     "antiPrivateChat": {
+     "chatBot" : false,
+     "teksChat" : "Gada menu"
+     },
+     
+     "setPayment": {
+     "Shopee" : "085156137901",
+     "Gopay" : "085648870603",
+     "Dana" : "085156137901",
+     "Ovo" : "085156137901"
+     },
+     
+     "setPrefix": {
+     "prefix": "!",
+     "multi": true,
+     "onepref" : false,
+     "nopref" : false
+     },
+     
+     "Pilih salah satu fitur yang mau di aktifkan di bawah ini": "Untuk mengaktifkan ketik true dan false untuk menonaktiflan",
+                                                                                                                                                                                                                                                      
+     "setWelcome": {
+     "autoWelcome": true,
+     "welcomeType1": false,
+     "welcomeType2": false,
+     "welcomeType3": true,
+     "background": "https://tinyurl.com/yxvl8h3a"
+     },
+     
+     "setMenu": {
+     "katalogMenu": false,
+     "troliMenu": false,
+     "lokasiMenu": true,
+     "documentMenu": false
+     },
+     
+     "setReply": {
+     "setWeb": true,
+     "setTroli": false,
+     "setMessage": false,
+     "setVideo": false
+     },
+     
+     "setQuoted": {
+     "fakeToko": true,
+     "fakeKontak": false,
+     "fakeTeks": false,
+     "fakeTroli": false
+     },
+     
+     "gamewaktu": 60,
+	 "limitCount": 30,
+	 "gcount": {
+	 "prem": 60,
+	 "user": 20
+}
+    
+}
+
+   
+   
